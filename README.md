@@ -8,20 +8,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/um26/Leetcode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/um26/Leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/um26/Leetcode/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/um26/Leetcode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/um26/Leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/um26/Leetcode/tree/master/0268-missing-number) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/um26/Leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/um26/Leetcode/tree/master/0268-missing-number) |
 ## Math
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/um26/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/um26/Leetcode/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/um26/Leetcode/tree/master/0268-missing-number) |
 ## Simulation
 |  |
 | ------- |
@@ -34,8 +38,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/um26/Leetcode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/um26/Leetcode/tree/master/0268-missing-number) |
 ## Recursion
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/um26/Leetcode/tree/master/0231-power-of-two) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/um26/Leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
