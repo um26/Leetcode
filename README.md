@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/um26/Leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/um26/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0061-rotate-list](https://github.com/um26/Leetcode/tree/master/0061-rotate-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/um26/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0908-middle-of-the-linked-list](https://github.com/um26/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/um26/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/um26/Leetcode/tree/master/0061-rotate-list) |
 | [0908-middle-of-the-linked-list](https://github.com/um26/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/um26/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 <!---LeetCode Topics End-->
