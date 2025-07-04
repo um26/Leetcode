@@ -10,8 +10,8 @@ class Solution {
 
     public int searchLeft(int[] nums, int target){
         int low=0;
-        int high=nums.length-1; 
-        int Firstoccur=-1; 
+        int high=nums.length-1;
+        int Firstoccur=-1;
             while(high>=low){
                 int mid=low+(high-low)/2;
                 if(target==nums[mid]){
