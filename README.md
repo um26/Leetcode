@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/um26/Leetcode/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/um26/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0217-contains-duplicate](https://github.com/um26/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/um26/Leetcode/tree/master/0268-missing-number) |
 ## Sorting
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/um26/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/um26/Leetcode/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/um26/Leetcode/tree/master/0344-reverse-string) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/um26/Leetcode/tree/master/2243-check-if-all-as-appears-before-all-bs) |
@@ -145,4 +147,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/um26/Leetcode/tree/master/0278-first-bad-version) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/um26/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
