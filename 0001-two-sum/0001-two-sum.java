@@ -1,6 +1,6 @@
 class Solution {
     public int[] twoSum(int[] nums, int target) {
-    Map<Integer,Integer> hash= new HashMap<>(); //Optimized approach, with O(n) space complexity and O(n) time complexity.
+    Map<Integer,Integer> hash= new HashMap<>();
     for(int i=0;i<nums.length;i++){
         int complement= target- nums[i];
         if(hash.containsKey(complement)){
