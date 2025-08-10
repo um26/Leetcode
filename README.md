@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/um26/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0217-contains-duplicate](https://github.com/um26/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/um26/Leetcode/tree/master/0268-missing-number) |
+| [0900-reordered-power-of-2](https://github.com/um26/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/um26/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [2689-rearranging-fruits](https://github.com/um26/Leetcode/tree/master/2689-rearranging-fruits) |
 ## Sorting
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/um26/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/um26/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/um26/Leetcode/tree/master/0268-missing-number) |
+| [0900-reordered-power-of-2](https://github.com/um26/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [0941-sort-array-by-parity](https://github.com/um26/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [2689-rearranging-fruits](https://github.com/um26/Leetcode/tree/master/2689-rearranging-fruits) |
 ## Math
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/um26/Leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/um26/Leetcode/tree/master/0268-missing-number) |
 | [0826-soup-servings](https://github.com/um26/Leetcode/tree/master/0826-soup-servings) |
+| [0900-reordered-power-of-2](https://github.com/um26/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/um26/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Simulation
 |  |
@@ -126,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/um26/Leetcode/tree/master/0204-count-primes) |
+| [0900-reordered-power-of-2](https://github.com/um26/Leetcode/tree/master/0900-reordered-power-of-2) |
 ## Linked List
 |  |
 | ------- |
@@ -230,4 +234,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0826-soup-servings](https://github.com/um26/Leetcode/tree/master/0826-soup-servings) |
+## Counting
+|  |
+| ------- |
+| [0900-reordered-power-of-2](https://github.com/um26/Leetcode/tree/master/0900-reordered-power-of-2) |
 <!---LeetCode Topics End-->
