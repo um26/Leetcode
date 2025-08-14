@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/um26/Leetcode/tree/master/0326-power-of-three) |
 | [0826-soup-servings](https://github.com/um26/Leetcode/tree/master/0826-soup-servings) |
 | [0900-reordered-power-of-2](https://github.com/um26/Leetcode/tree/master/0900-reordered-power-of-2) |
+| [2032-largest-odd-number-in-string](https://github.com/um26/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/um26/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Simulation
 |  |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/um26/Leetcode/tree/master/0011-container-with-most-water) |
+| [2032-largest-odd-number-in-string](https://github.com/um26/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2689-rearranging-fruits](https://github.com/um26/Leetcode/tree/master/2689-rearranging-fruits) |
 ## Enumeration
 |  |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/um26/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/um26/Leetcode/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/um26/Leetcode/tree/master/0344-reverse-string) |
+| [2032-largest-odd-number-in-string](https://github.com/um26/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/um26/Leetcode/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/um26/Leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
 ## Stack
