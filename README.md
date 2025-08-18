@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/um26/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/um26/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/um26/Leetcode/tree/master/0283-move-zeroes) |
+| [0679-24-game](https://github.com/um26/Leetcode/tree/master/0679-24-game) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/um26/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0940-fruit-into-baskets](https://github.com/um26/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [0941-sort-array-by-parity](https://github.com/um26/Leetcode/tree/master/0941-sort-array-by-parity) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/um26/Leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/um26/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/um26/Leetcode/tree/master/0342-power-of-four) |
+| [0679-24-game](https://github.com/um26/Leetcode/tree/master/0679-24-game) |
 | [0826-soup-servings](https://github.com/um26/Leetcode/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/um26/Leetcode/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/um26/Leetcode/tree/master/0900-reordered-power-of-2) |
@@ -257,4 +259,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0900-reordered-power-of-2](https://github.com/um26/Leetcode/tree/master/0900-reordered-power-of-2) |
+## Backtracking
+|  |
+| ------- |
+| [0679-24-game](https://github.com/um26/Leetcode/tree/master/0679-24-game) |
 <!---LeetCode Topics End-->
