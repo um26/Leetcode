@@ -7,6 +7,7 @@ class Solution {
                 return new int[]{hash.get(result),i};
             }
             hash.put(nums[i],i);
+            
         }
 
         return new int[]{};
