@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2529-range-product-queries-of-powers](https://github.com/um26/Leetcode/tree/master/2529-range-product-queries-of-powers) |
 | [2689-rearranging-fruits](https://github.com/um26/Leetcode/tree/master/2689-rearranging-fruits) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/um26/Leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/um26/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/um26/Leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/um26/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/um26/Leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/um26/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [0941-sort-array-by-parity](https://github.com/um26/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [2689-rearranging-fruits](https://github.com/um26/Leetcode/tree/master/2689-rearranging-fruits) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/um26/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/um26/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Math
 |  |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/um26/Leetcode/tree/master/1448-maximum-69-number) |
 | [2032-largest-odd-number-in-string](https://github.com/um26/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/um26/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/um26/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/um26/Leetcode/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/um26/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Simulation
@@ -170,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/um26/Leetcode/tree/master/0204-count-primes) |
 | [0900-reordered-power-of-2](https://github.com/um26/Leetcode/tree/master/0900-reordered-power-of-2) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/um26/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/um26/Leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 ## Linked List
 |  |
@@ -319,4 +323,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/um26/Leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
+## Geometry
+|  |
+| ------- |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/um26/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 <!---LeetCode Topics End-->
