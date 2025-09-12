@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/um26/Leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/um26/Leetcode/tree/master/0037-sudoku-solver) |
 | [0053-maximum-subarray](https://github.com/um26/Leetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/um26/Leetcode/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/um26/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/um26/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/um26/Leetcode/tree/master/0118-pascals-triangle) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/um26/Leetcode/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/um26/Leetcode/tree/master/0055-jump-game) |
 | [1448-maximum-69-number](https://github.com/um26/Leetcode/tree/master/1448-maximum-69-number) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/um26/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2032-largest-odd-number-in-string](https://github.com/um26/Leetcode/tree/master/2032-largest-odd-number-in-string) |
@@ -288,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/um26/Leetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/um26/Leetcode/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/um26/Leetcode/tree/master/0118-pascals-triangle) |
 | [0826-soup-servings](https://github.com/um26/Leetcode/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/um26/Leetcode/tree/master/0867-new-21-game) |
