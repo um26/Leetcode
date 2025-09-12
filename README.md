@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/um26/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/um26/Leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/um26/Leetcode/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/um26/Leetcode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/um26/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/um26/Leetcode/tree/master/0342-power-of-four) |
 | [0679-24-game](https://github.com/um26/Leetcode/tree/master/0679-24-game) |
@@ -356,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/um26/Leetcode/tree/master/0292-nim-game) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/um26/Leetcode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3462-vowels-game-in-a-string](https://github.com/um26/Leetcode/tree/master/3462-vowels-game-in-a-string) |
 ## Queue
@@ -365,5 +367,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/um26/Leetcode/tree/master/0292-nim-game) |
 | [3462-vowels-game-in-a-string](https://github.com/um26/Leetcode/tree/master/3462-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->
