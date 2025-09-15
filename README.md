@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/um26/Leetcode/tree/master/1448-maximum-69-number) |
 | [2032-largest-odd-number-in-string](https://github.com/um26/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/um26/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2812-find-the-maximum-achievable-number](https://github.com/um26/Leetcode/tree/master/2812-find-the-maximum-achievable-number) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/um26/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/um26/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/um26/Leetcode/tree/master/3279-alice-and-bob-playing-flower-game) |
