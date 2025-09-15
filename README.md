@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/um26/Leetcode/tree/master/0268-missing-number) |
 | [0900-reordered-power-of-2](https://github.com/um26/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/um26/Leetcode/tree/master/0940-fruit-into-baskets) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/um26/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/um26/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/um26/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2689-rearranging-fruits](https://github.com/um26/Leetcode/tree/master/2689-rearranging-fruits) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/um26/Leetcode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/um26/Leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/um26/Leetcode/tree/master/0344-reverse-string) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/um26/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2032-largest-odd-number-in-string](https://github.com/um26/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/um26/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/um26/Leetcode/tree/master/2243-check-if-all-as-appears-before-all-bs) |
