@@ -407,4 +407,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2023-design-movie-rental-system](https://github.com/um26/Leetcode/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/um26/Leetcode/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/um26/Leetcode/tree/master/3678-design-task-manager) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/um26/Leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
