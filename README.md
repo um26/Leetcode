@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/um26/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/um26/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/um26/Leetcode/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/um26/Leetcode/tree/master/0120-triangle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/um26/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/um26/Leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/um26/Leetcode/tree/master/0204-count-primes) |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/um26/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/um26/Leetcode/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/um26/Leetcode/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/um26/Leetcode/tree/master/0120-triangle) |
 | [0826-soup-servings](https://github.com/um26/Leetcode/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/um26/Leetcode/tree/master/0867-new-21-game) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/um26/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
