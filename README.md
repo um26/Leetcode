@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/um26/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/um26/Leetcode/tree/master/0283-move-zeroes) |
 | [0498-diagonal-traverse](https://github.com/um26/Leetcode/tree/master/0498-diagonal-traverse) |
+| [0611-valid-triangle-number](https://github.com/um26/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0679-24-game](https://github.com/um26/Leetcode/tree/master/0679-24-game) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/um26/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0940-fruit-into-baskets](https://github.com/um26/Leetcode/tree/master/0940-fruit-into-baskets) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/um26/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/um26/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/um26/Leetcode/tree/master/0268-missing-number) |
+| [0611-valid-triangle-number](https://github.com/um26/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0900-reordered-power-of-2](https://github.com/um26/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [0941-sort-array-by-parity](https://github.com/um26/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [2689-rearranging-fruits](https://github.com/um26/Leetcode/tree/master/2689-rearranging-fruits) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/um26/Leetcode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/um26/Leetcode/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/um26/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
+| [0611-valid-triangle-number](https://github.com/um26/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/um26/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/um26/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [3790-fruits-into-baskets-ii](https://github.com/um26/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
@@ -197,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/um26/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/um26/Leetcode/tree/master/0344-reverse-string) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/um26/Leetcode/tree/master/0528-swapping-nodes-in-a-linked-list) |
+| [0611-valid-triangle-number](https://github.com/um26/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0908-middle-of-the-linked-list](https://github.com/um26/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/um26/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/um26/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -205,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/um26/Leetcode/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/um26/Leetcode/tree/master/0055-jump-game) |
+| [0611-valid-triangle-number](https://github.com/um26/Leetcode/tree/master/0611-valid-triangle-number) |
 | [1448-maximum-69-number](https://github.com/um26/Leetcode/tree/master/1448-maximum-69-number) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/um26/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2032-largest-odd-number-in-string](https://github.com/um26/Leetcode/tree/master/2032-largest-odd-number-in-string) |
