@@ -8,9 +8,7 @@
  */
 class Solution {
     public void deleteNode(ListNode node) {
-        ListNode nee= node.next;
-        node.val=nee.val;
-        node.next=nee.next;
-        
+        node.val=node.next.val;
+        node.next=node.next.next;
     }
 }
