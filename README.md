@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/um26/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/um26/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/um26/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/um26/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2429-design-a-food-rating-system](https://github.com/um26/Leetcode/tree/master/2429-design-a-food-rating-system) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/um26/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2529-range-product-queries-of-powers](https://github.com/um26/Leetcode/tree/master/2529-range-product-queries-of-powers) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1642-water-bottles](https://github.com/um26/Leetcode/tree/master/1642-water-bottles) |
 | [2169-simple-bank-system](https://github.com/um26/Leetcode/tree/master/2169-simple-bank-system) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/um26/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/um26/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/um26/Leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3336-water-bottles-ii](https://github.com/um26/Leetcode/tree/master/3336-water-bottles-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/um26/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -443,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/um26/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/um26/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/um26/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/um26/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/um26/Leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/um26/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/um26/Leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
