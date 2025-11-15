@@ -1,5 +1,4 @@
 /* Write your PL/SQL query statement below */
-
-select a.firstName, a.lastName, b.city, b.state 
-from person a
-left join address b on a.personId=b.personId;
+select p.firstName, p.LastName, a.city, a.state
+from Person p 
+left join Address a on p.personId=a.personId;
