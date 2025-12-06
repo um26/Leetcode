@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/um26/Leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3797-design-spreadsheet](https://github.com/um26/Leetcode/tree/master/3797-design-spreadsheet) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/um26/Leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
+| [3835-count-partitions-with-max-min-difference-at-most-k](https://github.com/um26/Leetcode/tree/master/3835-count-partitions-with-max-min-difference-at-most-k) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/um26/Leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3863-power-grid-maintenance](https://github.com/um26/Leetcode/tree/master/3863-power-grid-maintenance) |
 | [3897-count-number-of-trapezoids-ii](https://github.com/um26/Leetcode/tree/master/3897-count-number-of-trapezoids-ii) |
@@ -433,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2618-maximize-the-minimum-powered-city](https://github.com/um26/Leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/um26/Leetcode/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/um26/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3835-count-partitions-with-max-min-difference-at-most-k](https://github.com/um26/Leetcode/tree/master/3835-count-partitions-with-max-min-difference-at-most-k) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -459,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/um26/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/um26/Leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/um26/Leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
+| [3835-count-partitions-with-max-min-difference-at-most-k](https://github.com/um26/Leetcode/tree/master/3835-count-partitions-with-max-min-difference-at-most-k) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/um26/Leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Prefix Sum
 |  |
@@ -471,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3616-make-array-elements-equal-to-zero](https://github.com/um26/Leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/um26/Leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/um26/Leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
+| [3835-count-partitions-with-max-min-difference-at-most-k](https://github.com/um26/Leetcode/tree/master/3835-count-partitions-with-max-min-difference-at-most-k) |
 ## Segment Tree
 |  |
 | ------- |
@@ -554,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0969-number-of-recent-calls](https://github.com/um26/Leetcode/tree/master/0969-number-of-recent-calls) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/um26/Leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/um26/Leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
+| [3835-count-partitions-with-max-min-difference-at-most-k](https://github.com/um26/Leetcode/tree/master/3835-count-partitions-with-max-min-difference-at-most-k) |
 ## Game Theory
 |  |
 | ------- |
@@ -612,4 +617,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3863-power-grid-maintenance](https://github.com/um26/Leetcode/tree/master/3863-power-grid-maintenance) |
+## Monotonic Queue
+|  |
+| ------- |
+| [3835-count-partitions-with-max-min-difference-at-most-k](https://github.com/um26/Leetcode/tree/master/3835-count-partitions-with-max-min-difference-at-most-k) |
 <!---LeetCode Topics End-->
