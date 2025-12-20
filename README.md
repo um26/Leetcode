@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/um26/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [1018-largest-perimeter-triangle](https://github.com/um26/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/um26/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [2092-find-all-people-with-secret](https://github.com/um26/Leetcode/tree/master/2092-find-all-people-with-secret) |
 | [2689-rearranging-fruits](https://github.com/um26/Leetcode/tree/master/2689-rearranging-fruits) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/um26/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/um26/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
@@ -414,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/um26/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/um26/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/um26/Leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [2092-find-all-people-with-secret](https://github.com/um26/Leetcode/tree/master/2092-find-all-people-with-secret) |
 | [3863-power-grid-maintenance](https://github.com/um26/Leetcode/tree/master/3863-power-grid-maintenance) |
 ## Binary Tree
 |  |
@@ -435,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/um26/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/um26/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/um26/Leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [2092-find-all-people-with-secret](https://github.com/um26/Leetcode/tree/master/2092-find-all-people-with-secret) |
 | [3863-power-grid-maintenance](https://github.com/um26/Leetcode/tree/master/3863-power-grid-maintenance) |
 ## Interactive
 |  |
@@ -625,6 +628,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0794-swim-in-rising-water](https://github.com/um26/Leetcode/tree/master/0794-swim-in-rising-water) |
+| [2092-find-all-people-with-secret](https://github.com/um26/Leetcode/tree/master/2092-find-all-people-with-secret) |
 | [3863-power-grid-maintenance](https://github.com/um26/Leetcode/tree/master/3863-power-grid-maintenance) |
 ## Data Stream
 |  |
@@ -637,6 +641,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [2092-find-all-people-with-secret](https://github.com/um26/Leetcode/tree/master/2092-find-all-people-with-secret) |
 | [3863-power-grid-maintenance](https://github.com/um26/Leetcode/tree/master/3863-power-grid-maintenance) |
 ## Monotonic Queue
 |  |
