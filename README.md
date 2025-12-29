@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/um26/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/um26/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/um26/Leetcode/tree/master/0268-missing-number) |
+| [0756-pyramid-transition-matrix](https://github.com/um26/Leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [0900-reordered-power-of-2](https://github.com/um26/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/um26/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/um26/Leetcode/tree/master/1064-smallest-integer-divisible-by-k) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/um26/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/um26/Leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/um26/Leetcode/tree/master/0342-power-of-four) |
+| [0756-pyramid-transition-matrix](https://github.com/um26/Leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/um26/Leetcode/tree/master/1071-binary-prefix-divisible-by-5) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/um26/Leetcode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2529-range-product-queries-of-powers](https://github.com/um26/Leetcode/tree/master/2529-range-product-queries-of-powers) |
@@ -369,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/um26/Leetcode/tree/master/0165-compare-version-numbers) |
 | [0344-reverse-string](https://github.com/um26/Leetcode/tree/master/0344-reverse-string) |
 | [0474-ones-and-zeroes](https://github.com/um26/Leetcode/tree/master/0474-ones-and-zeroes) |
+| [0756-pyramid-transition-matrix](https://github.com/um26/Leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [0944-delete-columns-to-make-sorted](https://github.com/um26/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/um26/Leetcode/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/um26/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -559,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/um26/Leetcode/tree/master/0037-sudoku-solver) |
 | [0679-24-game](https://github.com/um26/Leetcode/tree/master/0679-24-game) |
+| [0756-pyramid-transition-matrix](https://github.com/um26/Leetcode/tree/master/0756-pyramid-transition-matrix) |
 ## Monotonic Stack
 |  |
 | ------- |
