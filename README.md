@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/um26/Leetcode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/um26/Leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/um26/Leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
+| [3640-trionic-array-ii](https://github.com/um26/Leetcode/tree/master/3640-trionic-array-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/um26/Leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/um26/Leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/um26/Leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
@@ -523,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/um26/Leetcode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/um26/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/um26/Leetcode/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
+| [3640-trionic-array-ii](https://github.com/um26/Leetcode/tree/master/3640-trionic-array-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/um26/Leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/um26/Leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3835-count-partitions-with-max-min-difference-at-most-k](https://github.com/um26/Leetcode/tree/master/3835-count-partitions-with-max-min-difference-at-most-k) |
