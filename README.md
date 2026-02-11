@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/um26/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0679-24-game](https://github.com/um26/Leetcode/tree/master/0679-24-game) |
 | [0735-asteroid-collision](https://github.com/um26/Leetcode/tree/master/0735-asteroid-collision) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/um26/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0794-swim-in-rising-water](https://github.com/um26/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [0830-largest-triangle-area](https://github.com/um26/Leetcode/tree/master/0830-largest-triangle-area) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/um26/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/um26/Leetcode/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/um26/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0611-valid-triangle-number](https://github.com/um26/Leetcode/tree/master/0611-valid-triangle-number) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/um26/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0794-swim-in-rising-water](https://github.com/um26/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/um26/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1612-avoid-flood-in-the-city](https://github.com/um26/Leetcode/tree/master/1612-avoid-flood-in-the-city) |
