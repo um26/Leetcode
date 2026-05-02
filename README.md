@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/um26/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/um26/Leetcode/tree/master/0342-power-of-four) |
 | [0679-24-game](https://github.com/um26/Leetcode/tree/master/0679-24-game) |
+| [0788-rotated-digits](https://github.com/um26/Leetcode/tree/master/0788-rotated-digits) |
 | [0826-soup-servings](https://github.com/um26/Leetcode/tree/master/0826-soup-servings) |
 | [0830-largest-triangle-area](https://github.com/um26/Leetcode/tree/master/0830-largest-triangle-area) |
 | [0867-new-21-game](https://github.com/um26/Leetcode/tree/master/0867-new-21-game) |
@@ -573,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/um26/Leetcode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/um26/Leetcode/tree/master/0120-triangle) |
 | [0474-ones-and-zeroes](https://github.com/um26/Leetcode/tree/master/0474-ones-and-zeroes) |
+| [0788-rotated-digits](https://github.com/um26/Leetcode/tree/master/0788-rotated-digits) |
 | [0826-soup-servings](https://github.com/um26/Leetcode/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/um26/Leetcode/tree/master/0867-new-21-game) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/um26/Leetcode/tree/master/0960-delete-columns-to-make-sorted-iii) |
