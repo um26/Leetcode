@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1834-minimum-number-of-people-to-teach](https://github.com/um26/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/um26/Leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/um26/Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [1861-rotating-the-box](https://github.com/um26/Leetcode/tree/master/1861-rotating-the-box) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/um26/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/um26/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/um26/Leetcode/tree/master/1975-maximum-matrix-sum) |
@@ -373,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-middle-of-the-linked-list](https://github.com/um26/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/um26/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/um26/Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [1861-rotating-the-box](https://github.com/um26/Leetcode/tree/master/1861-rotating-the-box) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/um26/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/um26/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3643-flip-square-submatrix-vertically](https://github.com/um26/Leetcode/tree/master/3643-flip-square-submatrix-vertically) |
@@ -648,6 +650,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-count-square-submatrices-with-all-ones](https://github.com/um26/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/um26/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/um26/Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1861-rotating-the-box](https://github.com/um26/Leetcode/tree/master/1861-rotating-the-box) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/um26/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/um26/Leetcode/tree/master/1975-maximum-matrix-sum) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/um26/Leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
