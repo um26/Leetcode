@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2615-sum-of-distances](https://github.com/um26/Leetcode/tree/master/2615-sum-of-distances) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/um26/Leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/um26/Leetcode/tree/master/2625-increment-submatrices-by-one) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/um26/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2689-rearranging-fruits](https://github.com/um26/Leetcode/tree/master/2689-rearranging-fruits) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/um26/Leetcode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2784-check-if-array-is-good](https://github.com/um26/Leetcode/tree/master/2784-check-if-array-is-good) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2169-simple-bank-system](https://github.com/um26/Leetcode/tree/master/2169-simple-bank-system) |
 | [2429-design-a-food-rating-system](https://github.com/um26/Leetcode/tree/master/2429-design-a-food-rating-system) |
 | [2615-sum-of-distances](https://github.com/um26/Leetcode/tree/master/2615-sum-of-distances) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/um26/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2689-rearranging-fruits](https://github.com/um26/Leetcode/tree/master/2689-rearranging-fruits) |
 | [2784-check-if-array-is-good](https://github.com/um26/Leetcode/tree/master/2784-check-if-array-is-good) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/um26/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -315,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1071-binary-prefix-divisible-by-5](https://github.com/um26/Leetcode/tree/master/1071-binary-prefix-divisible-by-5) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/um26/Leetcode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2529-range-product-queries-of-powers](https://github.com/um26/Leetcode/tree/master/2529-range-product-queries-of-powers) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/um26/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/um26/Leetcode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/um26/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/um26/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
