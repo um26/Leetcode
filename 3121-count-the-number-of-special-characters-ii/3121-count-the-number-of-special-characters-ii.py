@@ -1,30 +1,17 @@
 class Solution:
     def numberOfSpecialChars(self, word: str) -> int:
-
-        lower_char_set = set()
-        upper_char_set = set()
-
-        special_set = set()
-        failed_set = set()
-
-
-        for ch in word:
-            if ch.islower():
-                lower_char_set.add(ch)
-                
-                if ch.upper() in upper_char_set:
-                    failed_set.add(ch)
-                    if ch in special_set:
-                        special_set.remove(ch)
-                    
-            else: # ch.isupper()
-                upper_char_set.add(ch)
-
-                if ch.lower() in lower_char_set and ch.lower() not in failed_set:
-                    special_set.add(ch.lower())
-                    
-        return len(special_set)
-
-
-
+        special = {}
         
+        for i, ch in enumerate(word) :
+            if ch not in special :
+                special[ch] = 0
+
+            if ch.isupper() :
+                if ch.lower() in special and ch not in word[:i]:
+                    special[ch] += 1
+
+            elif ch.islower() :
+                if ch.upper() in special and ch in word[:word.find(ch.upper())] :
+                    special[ch] = -1
+                
+        return sum(list(special.values()))
