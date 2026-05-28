@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/um26/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/um26/Leetcode/tree/master/1071-binary-prefix-divisible-by-5) |
 | [1200-minimum-absolute-difference](https://github.com/um26/Leetcode/tree/master/1200-minimum-absolute-difference) |
+| [1340-jump-game-v](https://github.com/um26/Leetcode/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/um26/Leetcode/tree/master/1345-jump-game-iv) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/um26/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1390-four-divisors](https://github.com/um26/Leetcode/tree/master/1390-four-divisors) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/um26/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [1018-largest-perimeter-triangle](https://github.com/um26/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1200-minimum-absolute-difference](https://github.com/um26/Leetcode/tree/master/1200-minimum-absolute-difference) |
+| [1340-jump-game-v](https://github.com/um26/Leetcode/tree/master/1340-jump-game-v) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/um26/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/um26/Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/um26/Leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -596,6 +598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0826-soup-servings](https://github.com/um26/Leetcode/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/um26/Leetcode/tree/master/0867-new-21-game) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/um26/Leetcode/tree/master/0960-delete-columns-to-make-sorted-iii) |
+| [1340-jump-game-v](https://github.com/um26/Leetcode/tree/master/1340-jump-game-v) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/um26/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/um26/Leetcode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/um26/Leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
