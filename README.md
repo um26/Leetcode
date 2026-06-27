@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/um26/Leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/um26/Leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/um26/Leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/um26/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/um26/Leetcode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/um26/Leetcode/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/um26/Leetcode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3606-coupon-code-validator](https://github.com/um26/Leetcode/tree/master/3606-coupon-code-validator) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/um26/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3678-design-task-manager](https://github.com/um26/Leetcode/tree/master/3678-design-task-manager) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/um26/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/um26/Leetcode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3797-design-spreadsheet](https://github.com/um26/Leetcode/tree/master/3797-design-spreadsheet) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/um26/Leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
@@ -601,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/um26/Leetcode/tree/master/0053-maximum-subarray) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/um26/Leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/um26/Leetcode/tree/master/3655-xor-after-range-multiplication-queries-ii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/um26/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -657,12 +660,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/um26/Leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/um26/Leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/um26/Leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/um26/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/um26/Leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3835-count-partitions-with-max-min-difference-at-most-k](https://github.com/um26/Leetcode/tree/master/3835-count-partitions-with-max-min-difference-at-most-k) |
 ## Segment Tree
 |  |
 | ------- |
 | [3454-separate-squares-ii](https://github.com/um26/Leetcode/tree/master/3454-separate-squares-ii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/um26/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/um26/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/um26/Leetcode/tree/master/3791-fruits-into-baskets-iii) |
 ## Ordered Set
@@ -721,6 +726,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3242-count-elements-with-maximum-frequency](https://github.com/um26/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/um26/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3583-count-special-triplets](https://github.com/um26/Leetcode/tree/master/3583-count-special-triplets) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/um26/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -857,4 +863,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/um26/Leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/um26/Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+## Merge Sort
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/um26/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 <!---LeetCode Topics End-->
