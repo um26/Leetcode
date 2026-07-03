@@ -1,21 +1,21 @@
 class Solution:
     def isAnagram(self, s: str, t: str) -> bool:
-        hash1 = {}
-        hash2= {}
+        s_dict={}
+        t_dict={}
 
-        if (len(s)!=len(t)):
+        if(len(s)!=len(t)):
             return False
 
         for char in s:
-            if char in hash1:
-                hash1[char]+=1
+            if char in s_dict:
+                s_dict[char]+=1
             else:
-                hash1[char]=1
+                s_dict[char]=1
         
         for char in t:
-            if char in hash2:
-                hash2[char]+=1
+            if char in t_dict:
+                t_dict[char]+=1
             else:
-                hash2[char]=1
+                t_dict[char]=1
 
-        return hash1==hash2
+        return s_dict==t_dict
