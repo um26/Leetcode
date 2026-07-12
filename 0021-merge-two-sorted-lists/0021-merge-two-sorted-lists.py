@@ -15,4 +15,4 @@ class Solution:
                 list2,curr=list2.next,list2
         if list1 or list2:
             curr.next=list1 if list1 else list2
-        return dummy
+        return dummy.next
