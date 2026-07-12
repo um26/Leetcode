@@ -546,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/um26/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/um26/Leetcode/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/um26/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/um26/Leetcode/tree/master/0226-invert-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/um26/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/um26/Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Depth-First Search
@@ -558,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/um26/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/um26/Leetcode/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/um26/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/um26/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/um26/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/um26/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/um26/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -580,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/um26/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/um26/Leetcode/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/um26/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/um26/Leetcode/tree/master/0226-invert-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/um26/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/um26/Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Breadth-First Search
@@ -589,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/um26/Leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/um26/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/um26/Leetcode/tree/master/0112-path-sum) |
+| [0226-invert-binary-tree](https://github.com/um26/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0407-trapping-rain-water-ii](https://github.com/um26/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/um26/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/um26/Leetcode/tree/master/0794-swim-in-rising-water) |
