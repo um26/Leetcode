@@ -242,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/um26/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3433-count-mentions-per-user](https://github.com/um26/Leetcode/tree/master/3433-count-mentions-per-user) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/um26/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/um26/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/um26/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3606-coupon-code-validator](https://github.com/um26/Leetcode/tree/master/3606-coupon-code-validator) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/um26/Leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
@@ -528,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3462-vowels-game-in-a-string](https://github.com/um26/Leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/um26/Leetcode/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/um26/Leetcode/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/um26/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3606-coupon-code-validator](https://github.com/um26/Leetcode/tree/master/3606-coupon-code-validator) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/um26/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3797-design-spreadsheet](https://github.com/um26/Leetcode/tree/master/3797-design-spreadsheet) |
@@ -931,4 +933,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/um26/Leetcode/tree/master/0098-validate-binary-search-tree) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/um26/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
