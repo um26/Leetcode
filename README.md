@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3875-construct-uniform-parity-array-i](https://github.com/um26/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/um26/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3897-count-number-of-trapezoids-ii](https://github.com/um26/Leetcode/tree/master/3897-count-number-of-trapezoids-ii) |
+| [3904-smallest-stable-index-ii](https://github.com/um26/Leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -762,6 +763,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3737-count-subarrays-with-majority-element-i](https://github.com/um26/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/um26/Leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3835-count-partitions-with-max-min-difference-at-most-k](https://github.com/um26/Leetcode/tree/master/3835-count-partitions-with-max-min-difference-at-most-k) |
+| [3904-smallest-stable-index-ii](https://github.com/um26/Leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Segment Tree
 |  |
 | ------- |
