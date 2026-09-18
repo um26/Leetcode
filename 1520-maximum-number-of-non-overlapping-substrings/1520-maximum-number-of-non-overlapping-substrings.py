@@ -1,53 +1,25 @@
-class Seg:
-    def __init__(self, left=-1, right=-1):
-        self.left = left
-        self.right = right
-
-    def __lt__(self, rhs):
-        return (
-            self.left > rhs.left
-            if self.right == rhs.right
-            else self.right < rhs.right
-        )
-
-
 class Solution:
     def maxNumOfSubstrings(self, s: str) -> List[str]:
-        seg = [Seg() for _ in range(26)]
-        # Preprocess the left and right endpoints.
-        for i in range(len(s)):
-            char_idx = ord(s[i]) - ord("a")
-            if seg[char_idx].left == -1:
-                seg[char_idx].left = seg[char_idx].right = i
-            else:
-                seg[char_idx].right = i
-
-        for i in range(26):
-            if seg[i].left != -1:
-                j = seg[i].left
-                while j <= seg[i].right:
-                    char_idx = ord(s[j]) - ord("a")
-                    if (
-                        seg[i].left <= seg[char_idx].left
-                        and seg[char_idx].right <= seg[i].right
-                    ):
-                        pass
-                    else:
-                        seg[i].left = min(seg[i].left, seg[char_idx].left)
-                        seg[i].right = max(seg[i].right, seg[char_idx].right)
-                        j = seg[i].left
-                    j += 1
-
-        # Greedily select intervals.
-        seg.sort()
-        ans = list()
-        end = -1
-        for segment in seg:
-            left, right = segment.left, segment.right
-            if left == -1:
-                continue
-            if end == -1 or left > end:
-                end = right
-                ans.append(s[left : right + 1])
-
+        ranges = collections.defaultdict(list)
+        # 1
+        for idx, ch in enumerate(s):
+            ranges[ch].append(idx)
+        # 2
+        for r in ranges:
+            left, right = ranges[r][0], ranges[r][-1]+1
+            templ, tempr = left, right
+            while True:
+                for ch in set(s[templ:tempr]):
+                    templ = min(templ, ranges[ch][0])
+                    tempr = max(tempr, ranges[ch][-1]+1)
+                if (templ, tempr) == (left, right): break
+                left, right = templ, tempr
+            ranges[r] = (templ, tempr)
+        # 3	
+        sorted_ranges = sorted(ranges.values(), key=lambda pair: pair[1])
+        ans, prev = [], 0
+        for start, end in sorted_ranges:
+            if start >= prev:
+                ans.append(s[start:end])
+                prev = end
         return ans
