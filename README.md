@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3634-minimum-removals-to-balance-array](https://github.com/um26/Leetcode/tree/master/3634-minimum-removals-to-balance-array) |
 | [3640-trionic-array-ii](https://github.com/um26/Leetcode/tree/master/3640-trionic-array-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/um26/Leetcode/tree/master/3643-flip-square-submatrix-vertically) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/um26/Leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/um26/Leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/um26/Leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/um26/Leetcode/tree/master/3655-xor-after-range-multiplication-queries-ii) |
@@ -415,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/um26/Leetcode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/um26/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/um26/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/um26/Leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/um26/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/um26/Leetcode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/um26/Leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
