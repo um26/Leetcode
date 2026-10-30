@@ -617,6 +617,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/um26/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/um26/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3797-design-spreadsheet](https://github.com/um26/Leetcode/tree/master/3797-design-spreadsheet) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/um26/Leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Stack
 |  |
 | ------- |
@@ -968,6 +969,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/um26/Leetcode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 | [3678-design-task-manager](https://github.com/um26/Leetcode/tree/master/3678-design-task-manager) |
 | [3863-power-grid-maintenance](https://github.com/um26/Leetcode/tree/master/3863-power-grid-maintenance) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/um26/Leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Database
 |  |
 | ------- |
@@ -1019,11 +1021,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/um26/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/um26/Leetcode/tree/master/3620-network-recovery-pathways) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/um26/Leetcode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/um26/Leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Shortest Path
 |  |
 | ------- |
 | [3620-network-recovery-pathways](https://github.com/um26/Leetcode/tree/master/3620-network-recovery-pathways) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/um26/Leetcode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/um26/Leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Union-Find
 |  |
 | ------- |
