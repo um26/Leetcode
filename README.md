@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/um26/Leetcode/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3660-jump-game-ix](https://github.com/um26/Leetcode/tree/master/3660-jump-game-ix) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/um26/Leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
+| [3665-twisted-mirror-path-count](https://github.com/um26/Leetcode/tree/master/3665-twisted-mirror-path-count) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/um26/Leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/um26/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/um26/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -793,6 +794,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/um26/Leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3660-jump-game-ix](https://github.com/um26/Leetcode/tree/master/3660-jump-game-ix) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/um26/Leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
+| [3665-twisted-mirror-path-count](https://github.com/um26/Leetcode/tree/master/3665-twisted-mirror-path-count) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/um26/Leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/um26/Leetcode/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/um26/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -869,6 +871,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/um26/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3643-flip-square-submatrix-vertically](https://github.com/um26/Leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/um26/Leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
+| [3665-twisted-mirror-path-count](https://github.com/um26/Leetcode/tree/master/3665-twisted-mirror-path-count) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/um26/Leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/um26/Leetcode/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3748-sort-matrix-by-diagonals](https://github.com/um26/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
