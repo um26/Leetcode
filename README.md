@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/um26/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/um26/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/um26/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3364-minimum-positive-sum-subarray](https://github.com/um26/Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/um26/Leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/um26/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3433-count-mentions-per-user](https://github.com/um26/Leetcode/tree/master/3433-count-mentions-per-user) |
@@ -751,6 +752,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2747-count-zero-request-servers](https://github.com/um26/Leetcode/tree/master/2747-count-zero-request-servers) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/um26/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/um26/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3364-minimum-positive-sum-subarray](https://github.com/um26/Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/um26/Leetcode/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/um26/Leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/um26/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -832,6 +834,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/um26/Leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/um26/Leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3225-maximum-score-from-grid-operations](https://github.com/um26/Leetcode/tree/master/3225-maximum-score-from-grid-operations) |
+| [3364-minimum-positive-sum-subarray](https://github.com/um26/Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/um26/Leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/um26/Leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/um26/Leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
