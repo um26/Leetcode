@@ -513,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/um26/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/um26/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/um26/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/um26/Leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/um26/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3643-flip-square-submatrix-vertically](https://github.com/um26/Leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/um26/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -623,6 +624,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/um26/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2573-find-the-string-with-lcp](https://github.com/um26/Leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/um26/Leetcode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/um26/Leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/um26/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/um26/Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/um26/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -807,6 +809,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2521-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/um26/Leetcode/tree/master/2521-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2573-find-the-string-with-lcp](https://github.com/um26/Leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/um26/Leetcode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/um26/Leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3225-maximum-score-from-grid-operations](https://github.com/um26/Leetcode/tree/master/3225-maximum-score-from-grid-operations) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/um26/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/um26/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
